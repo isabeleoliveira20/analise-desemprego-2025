@@ -7,4 +7,8 @@ Este projeto utiliza dados oficiais do IBGE/SIDRA para analisar a taxa de desocu
 - Visualizações gráficas (barras, pizza, gráficos empilhados).  
 
 🎯 Objetivo: compreender a dinâmica do desemprego em 2025 e identificar padrões regionais e de duração.  
-🛠 Ferramentas utilizadas: - Python - Pandas - Matplotlib - Jupyter Notebook
+🛠 Ferramentas utilizadas: 
+- Python 
+- Pandas 
+- Matplotlib 
+- Google Colab
